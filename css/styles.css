@@ -1,0 +1,12 @@
+.container {
+    width: 80%;
+    height: 220px;
+    margin: 16px auto;
+    outline: 8px solid red;
+}
+
+ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
