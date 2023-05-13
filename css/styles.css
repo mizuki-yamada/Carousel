@@ -31,10 +31,10 @@ li img {
   top: 50%;
   transform: translateY(-50%);
   border: none;
-  background-color: rgba(0,0,0,.8);
+  background-color: rgba(0, 0, 0, 0.8);
   color: #fff;
   font-size: 24px;
-  padding:0 8px 4px ;
+  padding: 0 8px 4px;
 }
 
 #prev {
